@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\FileHomework\FileHomework\bin\Debug\FileHomework.exe.config
+C:\Users\User\source\repos\FileHomework\FileHomework\bin\Debug\FileHomework.exe
+C:\Users\User\source\repos\FileHomework\FileHomework\bin\Debug\FileHomework.pdb
+C:\Users\User\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.exe
+C:\Users\User\source\repos\FileHomework\FileHomework\obj\Debug\FileHomework.pdb
